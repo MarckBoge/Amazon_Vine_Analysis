@@ -42,4 +42,8 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 <img width="869" alt="image 3" src="https://user-images.githubusercontent.com/90155651/198801773-0d4fdf3a-0e94-454c-a0a7-cb94c96cbe8b.png">
 
 
+## Summary
 
+The results from the analysis so a positivity bias towards the vine program based on the percentage. Taking a closer look, 51% of total Vine reviews were 5star reviews, but look at the number of votes in total only 94. Compared to 38% of non Vine reviews and a total of 40471.
+
+To go in depth and get a better understanding of the statistical quantity, trends or deviation in the data, we can further analyze the dataset by calculating the mean, median, and the mode of all of the reviews.

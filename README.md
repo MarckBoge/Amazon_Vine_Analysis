@@ -15,6 +15,17 @@ The dataset consisted of Amazon Reviews written by members of a paid Amazon Vine
    * Google Colab Notebook
 
 
+## Results
+
+Utilizing the above resources, the product reviews were counted and grouped by star ratings. The analysis found the following:
+
+How many Vine reviews and non-Vine reviews were there?
+
+   * There were 40,565 reviews in total. Out of that total, 94 were Vine (paid) reviews, and 40,471 non-Vine (unpaid) reviews.
+
+
+<img width="637" alt="image 1" src="https://user-images.githubusercontent.com/90155651/198793429-aadf8cf7-ddda-4bf2-a35e-3162a0426df6.png">
+
 
 
 
